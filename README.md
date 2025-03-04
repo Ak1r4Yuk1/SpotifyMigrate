@@ -1,3 +1,11 @@
+# 🔄 Migrazione Account Spotify
+
+Modifica le variabili `OLD_ACCOUNT_TOKEN` e `NEW_ACCOUNT_TOKEN`, dopodiché avvia lo script utilizzando uno dei seguenti comandi:
+
+```bash
+python3 spotimport.py
+```
+
 # 🔑 Generare un Token su Spotify Developer
 
 Questa guida ti aiuterà a ottenere un **token di accesso** per gli account Spotify tramite il portale sviluppatori. Segui i passaggi con attenzione. ✨
